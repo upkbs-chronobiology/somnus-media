@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -16,31 +17,34 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/cedric/git/upkbs/somnus-app/resources/icon.png"
+   inkscape:export-xdpi="1536"
+   inkscape:export-ydpi="1536">
   <defs
      id="defs2">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4712">
+       id="linearGradient4712"
+       osb:paint="gradient">
       <stop
-         style="stop-color:#c0c0c0;stop-opacity:1;"
+         style="stop-color:#fcfcfc;stop-opacity:1"
          offset="0"
          id="stop4708" />
       <stop
-         style="stop-color:#808080;stop-opacity:1"
+         style="stop-color:#ffffff;stop-opacity:0.49803922"
          offset="1"
          id="stop4710" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4712"
-       id="linearGradient4726"
+       id="linearGradient840"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.5874999,0.79374999)"
        x1="8.4666672"
        y1="294.88333"
        x2="14.2875"
-       y2="285.35834"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1.5874999,0.79374999)" />
+       y2="285.35834" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,17 +53,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="-35.750445"
-     inkscape:cy="94.028551"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="23.228596"
+     inkscape:cy="16.428597"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      showgrid="true"
      units="px"
-     inkscape:window-width="1855"
-     inkscape:window-height="1176"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="3710"
+     inkscape:window-height="2112"
+     inkscape:window-x="130"
+     inkscape:window-y="48"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="false"
      inkscape:showpageshadow="true"
@@ -89,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -137,30 +141,47 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Disk"
+     style="display:inline">
+    <rect
+       style="fill:#3aaeaa;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect858"
+       width="16.933334"
+       height="16.933334"
+       x="-2.1166668"
+       y="-2.116667"
+       ry="0"
+       inkscape:export-filename="/home/cedric/git/upkbs/somnus-app/resources/icon.png"
+       inkscape:export-xdpi="1536"
+       inkscape:export-ydpi="1536" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Straight lines">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#a8d729;stroke-width:0.52916667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 0,7.1437499 H 5.2916666"
        id="path33"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#a8d729;stroke-width:0.51576787;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 0.2645833,8.2020834 H 5.2916667"
        id="path35"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#a8d729;stroke-width:0.56570297;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 1.8520835,10.318751 H 6.0854167"
        id="path37"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#a8d729;stroke-width:0.50201166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 0.79374997,9.2604166 H 5.5562501"
        id="path35-3"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#a8d729;stroke-width:0.57967305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 3.7041665,11.377082 H 6.8791667"
        id="path37-5"
        inkscape:connector-curvature="0" />
@@ -170,8 +191,8 @@
      id="layer4"
      inkscape:label="Solid moon">
     <path
-       style="fill:#a8d729;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0,6.3499999 H 5.2916666 C 5.2916667,5.2916666 5.8208333,2.6458333 7.9375,1.0583333 2.6458333,1.0583333 0,4.2333333 0,6.3499999 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,6.3499999 H 5.2916666 C 5.2916667,5.2916666 5.8208333,2.1166666 7.9375,0.52916663 2.6458333,0.52916663 0,4.2333333 0,6.3499999 Z"
        id="path4568"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -182,7 +203,7 @@
      id="layer1"
      transform="translate(0,-284.29999)">
     <path
-       style="fill:url(#linearGradient4726);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:url(#linearGradient840);fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
        d="m 6.879167,295.67706 3.704167,-6.87917 c -1.2756709,1.55915 -3.1750013,4.76251 -3.1750013,4.76251 -0.5291657,0 -0.1883367,-1.43671 0,-2.11667 0.8968737,-2.66521 3.4841143,-4.38117 5.2916673,-5.29167 0,0 -0.514234,2.70083 -1.058333,4.23333 -0.263928,0.74337 -1.029707,2.08805 -1.5875,2.64584 -0.2788953,0.2789 -1.5875009,0.52916 -1.5875009,0.52916 l -1.0583334,1.58751 z"
        id="path4706"
        inkscape:connector-curvature="0"
