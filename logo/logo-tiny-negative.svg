@@ -17,10 +17,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="logo-tiny.svg"
-   inkscape:export-filename="/home/cedric/git/upkbs/somnus-app/resources/icon-tiny.png"
-   inkscape:export-xdpi="384"
-   inkscape:export-ydpi="384">
+   sodipodi:docname="logo-tiny-negative.svg"
+   inkscape:export-filename="/home/cedric/git/upkbs/somnus/public/images/favicon.png"
+   inkscape:export-xdpi="256"
+   inkscape:export-ydpi="256">
   <defs
      id="defs2">
     <linearGradient
@@ -76,16 +76,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="-19.261206"
-     inkscape:cy="17.932702"
+     inkscape:cx="9.2661332"
+     inkscape:cy="14.397168"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="true"
      units="px"
-     inkscape:window-width="3710"
-     inkscape:window-height="2112"
-     inkscape:window-x="130"
-     inkscape:window-y="48"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="false"
      inkscape:showpageshadow="true"
@@ -121,23 +121,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer5"
+     id="layer2"
      inkscape:label="Disk"
+     style="display:inline">
+    <path
+       transform="translate(3.175,-9.5250005)"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.13229164;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -2.1166665,9.5250005 c -0.5863166,0 -1.0583333,0.4720165 -1.0583333,1.0583325 v 4.233333 c 0,0.586316 0.4720167,1.058334 1.0583333,1.058334 h 4.2333334 c 0.5863164,0 1.0583333,-0.472018 1.0583333,-1.058334 v -4.233333 c 0,-0.586316 -0.4720169,-1.0583325 -1.0583333,-1.0583325 z"
+       id="rect858-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Gauge"
      style="display:inline"
      transform="translate(3.175,-9.5250006)">
     <path
        style="fill:#3aaeaa;fill-opacity:1;stroke:none;stroke-width:0.49999991;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 4,0 C 1.7840003,0 0,1.7839995 0,4 v 16 c 0,2.215997 1.7840003,4 4,4 h 16 c 2.215999,0 4,-1.784003 4,-4 V 4 C 24,1.7839995 22.215999,0 20,0 Z m 11,3 c -3.199999,2.4 -4.999999,6.6 -5,9 H 2 C 2,8.0000127 7.0000016,3 15,3 Z m 7,2 c 0,0 -0.652034,4.3452598 -1.474609,6.662109 -1.058711,2.570381 -1.525781,4.338294 -4.925782,4.738282 L 14,19 h -1 l 5.000001,-9.0000007 c -1.928573,2.3571407 -4.353554,6.0441947 -4.353554,6.0441947 -1,-3.8e-5 -1.373116,-2.060357 -1.088389,-3.088388 C 13.913962,8.9265273 19.000001,5.9999992 22,5 Z M 3.0019531,14 h 7.0019529 v 2.001953 H 3.0019531 Z m 2.9960938,4.03125 H 12 v 1.933594 H 5.9980469 Z"
-       transform="matrix(0.26458333,0,0,0.26458333,-3.175,9.5250006)"
        id="rect858"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssssccccccccccccccccccccccc" />
+       sodipodi:nodetypes="sssssssssccccccccccccccccccccccc"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.175,9.5250006)" />
   </g>
   <g
      inkscape:groupmode="layer"
